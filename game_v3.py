@@ -1,46 +1,37 @@
 import numpy as np
-def random_predict(number:int=1) -> int:
-    """Рандомно угадываем число
+def random_predict(number: int=np.random.randint(1, 101)) -> int:
 
-    Args:
-        number (int, optional): Загаданное число. Defaults to 1.
+    min = 1
+    max = 100
 
-    Returns:
-        int: Число попыток
-    """
+    predict_number = int(np.random.randint(min, max + 1))  #программа начинает отгадывать число
+    count = 0  #подсчет количества попыток на отгадывание числа
 
-    count = 0
-
-    while True:
+    while predict_number != number:
         count += 1
-        predict_number = np.random.randint(1, 101) # предполагаемое число
-        if number == predict_number:
-            break # выход из цикла, если угадали
-    return(count)
 
-print(f'Количество попыток: {random_predict()}')
+        if predict_number > number:
+            max = predict_number
+            predict_number = (min + max) // 2
+
+        elif predict_number < number:
+            min = predict_number
+            predict_number = (min + max) // 2
+
+        else:
+            break  #конец игры и выход из цикла
+    #print(f"Робот угадал число! Это число = {number}, за {count} попыток.")
+    return count
+
+#print(random_predict(2))
 def score_game(random_predict) -> int:
-    """За какое количество попыток в среднем из 1000 подходов угадывает наш алгоритм
-
-    Args:
-        random_predict ([type]): функция угадывания
-
-    Returns:
-        int: среднее количество попыток
-    """
-
-    count_ls = [] # список для сохранения количества попыток
-    np.random.seed(1) # фиксируем сид для воспроизводимости
-    random_array = np.random.randint(1, 101, size=(1000)) # загадали список чисел
-
+    count_ls = []
+    np.random.seed(np.random.randint(1, 10)) # не фиксируем сид для воспроизводимости
+    random_array = np.random.randint(1, 101, size=(100)) #загадали список рандомных чисел
     for number in random_array:
         count_ls.append(random_predict(number))
+    score = int(np.mean(count_ls))
+    print(f"Ваш алгоритм угадывает число в среднем за: {score} попытки.")
+    return score
 
-    score = int(np.mean(count_ls)) # находим среднее количество попыток
-
-    print(f'Ваш алгоритм угадывает число в среднем за: {score} попыток')
-    return(score)
-
-# RUN
-if __name__ == '__main__':
-    score_game(random_predict)
+score_game(random_predict)
