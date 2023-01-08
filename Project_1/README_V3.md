@@ -11,7 +11,7 @@
 
 [5. Результат](https://github.com/Ter4ik/DS/tree/main/Project_1/README_V3.md#Результат)
 
-[6. Выводы](https://github.com/Ter4ik/DS/tree/main/Project_10/README_V3.md#Выводы)
+[6. Выводы](https://github.com/Ter4ik/DS/tree/main/Project_1/README_V3.md#Выводы)
 
 ### Описание проекта
 Угадать загаданное компьютером число меньше чем за 20 попыток.
@@ -36,7 +36,25 @@
 - Учимся работать с GitHub
 
 
+:arrow_up:[к оглавлению](https://github.com/Ter4ik/DS/tree/main/Project_1/README_V3.md#Оглавление)
+
 ### Краткая информация о данных
+...
+
+:arrow_up:[к оглавлению](https://github.com/Ter4ik/DS/tree/main/Project_1/README_V3.md#Оглавление)
+
+
+### Этапы работы над проектом
+...
+
+:arrow_up:[к оглавлению](https://github.com/Ter4ik/DS/tree/main/Project_1/README_V3.md#Оглавление)
+
+### Результаты:
+...
+
+:arrow_up:[к оглавлению](https://github.com/Ter4ik/DS/tree/main/Project_1/README_V3.md#Оглавление)
+
+### Выводы:
 ...
 
 :arrow_up:[к оглавлению](https://github.com/Ter4ik/DS/tree/main/Project_1/README_V3.md#Оглавление)
