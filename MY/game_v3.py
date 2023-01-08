@@ -1,4 +1,7 @@
+"""Игра угадай число"""
+
 import numpy as np
+
 def random_predict(number: int=np.random.randint(1, 101)) -> int:
 
     min = 1
@@ -20,6 +23,7 @@ def random_predict(number: int=np.random.randint(1, 101)) -> int:
 
         else:
             break  #конец игры и выход из цикла
+    #print(f"Робот угадал число! Это число = {number}, за {count} попыток.")
     return count
 
 #print(random_predict(2))
