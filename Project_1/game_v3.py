@@ -26,9 +26,9 @@ def score_game(random_predict, size=20) -> int:
     for number in random_array:
         count_ls.append(random_predict(number))
  
-    print(f'Среднее число попыток {int(np.mean(count_ls))}') 
-    print(f'Максимальное количество попыток {max(count_ls)}') 
-    print(f'Минимальное количество попыток {min(count_ls)}') 
+
+    print(f'Ваш  {max(count_ls)}') 
+  
     
     
 if __name__ == "__main__":
