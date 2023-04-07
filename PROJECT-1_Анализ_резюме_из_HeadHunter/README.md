@@ -8,7 +8,7 @@
 * [4. Этапы работы над проектом](https://github.com/Ter4ik/DS/tree/main/Project-1/README.md#Этапы-работы-над-проектом)
   * [Базовый анализ структуры данных](https://github.com/Ter4ik/DS/tree/main/Project-1/README.md#Базовый_анализ_структуры_данных)
   * [Преобразование данных](https://github.com/Ter4ik/DS/tree/main/Project-1/README.md#Преобразование_данных)
-  *[Разведывательный анализ](https://github.com/Ter4ik/DS/tree/main/Project-1/README.md#Разведывательный_анализ)
+  * [Разведывательный анализ](https://github.com/Ter4ik/DS/tree/main/Project-1/README.md#Разведывательный_анализ)
   * [Очистка данных (результат)](https://github.com/Ter4ik/DS/tree/main/Project-1/README.md#Очистка_данных-(результат))
 * [5. Результат](https://github.com/Ter4ik/DS/tree/main/Project-1/README.md#Результат)
 * [6. Выводы](https://github.com/Ter4ik/DS/tree/main/Project-1/README.md#Выводы)
