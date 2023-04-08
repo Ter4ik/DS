@@ -3,20 +3,20 @@
 
 ## Оглавление
 * [1. Описание проекта](https://github.com/Ter4ik/DS/edit/Ter4ikDS/PROJECT-1_Анализ_резюме_из_HeadHunter/README.md#Описание-проекта)
-* [2. Какой кейс решаем?](https://github.com/Ter4ik/DS/tree/main/PROJECT-1_Анализ_резюме_из_HeadHunter/README.md#Какой-кейс-решаем)
-* [3. Краткая информация о данных](https://github.com/Ter4ik/DS/tree/main/PROJECT-1_Анализ_резюме_из_HeadHunter/READMEmd#Краткая-информация-о-данных)
-* [4. Этапы работы над проектом](https://github.com/Ter4ik/DS/tree/main/PROJECT-1_Анализ_резюме_из_HeadHunter/README.md#Этапы-работы-над-проектом)
-  * [Базовый анализ структуры данных](https://github.com/Ter4ik/DS/tree/main/PROJECT-1_Анализ_резюме_из_HeadHunter/README.md#Базовый_анализ_структуры_данных)
-  * [Преобразование данных](https://github.com/Ter4ik/DS/tree/main/PROJECT-1_Анализ_резюме_из_HeadHunter/README.md#Преобразование_данных)
-  * [Разведывательный анализ](https://github.com/Ter4ik/DS/tree/main/PROJECT-1_Анализ_резюме_из_HeadHunter/README.md#Разведывательный_анализ)
-  * [Очистка данных (результат)](https://github.com/Ter4ik/DS/tree/main/PROJECT-1_Анализ_резюме_из_HeadHunter/README.md#Очистка_данных-(результат))
-* [5. Результат](https://github.com/Ter4ik/DS/tree/main/PROJECT-1_Анализ_резюме_из_HeadHunter/README.md#Результат)
-* [6. Выводы](https://github.com/Ter4ik/DS/tree/main/PROJECT-1_Анализ_резюме_из_HeadHunter/README.md#Выводы)
+* [2. Какой кейс решаем?](https://github.com/Ter4ik/DS/edit/Ter4ikDS/PROJECT-1_Анализ_резюме_из_HeadHunter/README.md#Какой-кейс-решаем)
+* [3. Краткая информация о данных](https://github.com/Ter4ik/DS/edit/Ter4ikDS/PROJECT-1_Анализ_резюме_из_HeadHunter/READMEmd#Краткая-информация-о-данных)
+* [4. Этапы работы над проектом](https://github.com/Ter4ik/DS/edit/Ter4ikDS/PROJECT-1_Анализ_резюме_из_HeadHunter/README.md#Этапы-работы-над-проектом)
+  * [Базовый анализ структуры данных](https://github.com/Ter4ik/DS/edit/Ter4ikDS/PROJECT-1_Анализ_резюме_из_HeadHunter/README.md#Базовый_анализ_структуры_данных)
+  * [Преобразование данных](https://github.com/Ter4ik/DS/edit/Ter4ikDS/PROJECT-1_Анализ_резюме_из_HeadHunter/README.md#Преобразование_данных)
+  * [Разведывательный анализ](https://github.com/Ter4ik/DS/edit/Ter4ikDS/PROJECT-1_Анализ_резюме_из_HeadHunter/README.md#Разведывательный_анализ)
+  * [Очистка данных (результат)](https://github.com/Ter4ik/DS/edit/Ter4ikDS/PROJECT-1_Анализ_резюме_из_HeadHunter/README.md#Очистка_данных-(результат))
+* [5. Результат](https://github.com/Ter4ik/DS/edit/Ter4ikDS/PROJECT-1_Анализ_резюме_из_HeadHunter/README.md#Результат)
+* [6. Выводы](https://github.com/Ter4ik/DS/edit/Ter4ikDS/PROJECT-1_Анализ_резюме_из_HeadHunter/README.md#Выводы)
 
 ## Описание проекта
 Компания HeadHunter хочет построить модель, которая бы автоматически определяла примерный уровень заработной платы, подходящей пользователю, исходя из информации, которую он указал о себе.
 
-:arrow_up:[к оглавлению](https://github.com/Ter4ik/DS/tree/main/PROJECT-1_Анализ_резюме_из_HeadHunter/README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/Ter4ik/DS/edit/Ter4ikDS/PROJECT-1_Анализ_резюме_из_HeadHunter/README.md#Оглавление)
 
 ## Какой кейс решаем
 
@@ -34,16 +34,16 @@
 
 Каждая часть будет состоять из блока практических заданий, которые  необходимо выполнить в jupyter-ноутбуках, и контрольных вопросов на платформе, отвечая на которые можно проверить верность своего решения. Задания выполняются последовательно.
 
-:arrow_up:[к оглавлению](https://github.com/Ter4ik/DS/tree/main/PROJECT-1_Анализ_резюме_из_HeadHunter/README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/Ter4ik/DS/edit/Ter4ikDS/PROJECT-1_Анализ_резюме_из_HeadHunter/README.md#Оглавление)
 
 **Метрика качества**
 
 * Ответить на все контрольные вопросы: за них максимально набрать 30 баллов на платформе.
-* Загрузить ноутбук со своим решением на GitHub, оформив его в соответствии с [требованями](https://github.com/IlyaPolunin/SF_DST78_homework/blob/main/homework_1/README.md#Требования-к-оформлению-ноутбука).
+* Загрузить ноутбук со своим решением на GitHub, оформив его в соответствии с [требованями](https://github.com/Ter4ik/DS/edit/Ter4ikDS/PROJECT-1_Анализ_резюме_из_HeadHunter/README.md#Требования-к-оформлению-ноутбука).
 * Сдать проект на проверку и получить 10 баллов (из них 8 баллов — за основное задание и 2 балла — за дополнительное) за выводы по разведывательному анализу.
 * Для успешного выполнения проекта вам необходимо набрать 21 балл из 40 возможных.
 
-:arrow_up:[к оглавлению](https://github.com/Ter4ik/DS/tree/main/PROJECT-1_Анализ_резюме_из_HeadHunter/README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/Ter4ik/DS/edit/Ter4ikDS/PROJECT-1_Анализ_резюме_из_HeadHunter/README.md#Оглавление)
 
 **Что практикуем**
 
@@ -53,7 +53,7 @@
 - Учимся работать с данными и оформлению отчетов с помощью средств Python
 
 
-:arrow_up:[к оглавлению](https://github.com/Ter4ik/DS/tree/main/PROJECT-1_Анализ_резюме_из_HeadHunter/README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/Ter4ik/DS/edit/Ter4ikDS/PROJECT-1_Анализ_резюме_из_HeadHunter/README.md#Оглавление)
 
 ## Требования к оформлению ноутбука    
 
@@ -67,13 +67,13 @@
 * Графики оформляются в соответствии с теми правилами, которые приводены в модуле по визуализации данных.
 * Обязательное требование: графики должны содержать название, отражающее их суть, и подписи осей.
 * Выводы к графикам оформляются в формате Markdown под самим графиком в отдельной ячейке (в шаблоне они помечены как ваши выводы здесь). Выводы должны быть представлены в виде небольших связанных предложений на русском языке.
-:arrow_up:[к оглавлению](https://github.com/Ter4ik/DS/tree/main/PROJECT-1_Анализ_резюме_из_HeadHunter/README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/Ter4ik/DS/edit/Ter4ikDS/PROJECT-1_Анализ_резюме_из_HeadHunter/README.md#Оглавление)
 
 ## Краткая информация о данных
 * Файл с исходными данными находится [здесь:](https://drive.google.com/file/d/1aacY3qjpwV8LbWz6YTwWzgvJDp2KAMyu/view?usp=sharing)
 * Данные о курсах различных валют и акций за указанные периоды в виде [csv](https://drive.google.com/file/d/1mm6QNbVMfsvmKQVPQtHRBmF83NOWHsdi/view?usp=sharing)
 
-:arrow_up:[к оглавлению](https://github.com/Ter4ik/DS/tree/main/PROJECT-1_Анализ_резюме_из_HeadHunter/READMEE.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/Ter4ik/DS/edit/Ter4ikDS/PROJECT-1_Анализ_резюме_из_HeadHunter/READMEE.md#Оглавление)
 
 ## Этапы работы над проектом
 ### Базовый анализ структуры данных
@@ -107,16 +107,16 @@
 - Выведим информацию о числе пропусков в столбцах.
 - Найдем выбросы с помощью метода z-отклонения и удалим их из данных, используя логарифмический масштаб. Сделаем "послабление" на 1 сигму (возьмите 4 сигмы) в правую сторону.
 
-:arrow_up:[к оглавлению](https://github.com/Ter4ik/DS/tree/main/PROJECT-1_Анализ_резюме_из_HeadHunter/README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/Ter4ik/DS/edit/Ter4ikDS/PROJECT-1_Анализ_резюме_из_HeadHunter/README.md#Оглавление)
 
 ## Результаты:
 
-Представлены в [Ноутбук-шаблоне](https://github.com/Ter4ik/DS/tree/main/PROJECT-1_Анализ_резюме_из_HeadHunter/README.md#Оглавление)
+Представлены в [Ноутбук-шаблоне](https://github.com/Ter4ik/DS/edit/Ter4ikDS/PROJECT-1_Анализ_резюме_из_HeadHunter/README.md#Оглавление)
 
-:arrow_up:[к оглавлению](https://github.com/Ter4ik/DS/tree/main/PROJECT-1_Анализ_резюме_из_HeadHunter/README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/Ter4ik/DS/edit/Ter4ikDS/PROJECT-1_Анализ_резюме_из_HeadHunter/README.md#Оглавление)
 
 ## Выводы:
 
-Представлены в [Ноутбук-шаблоне]((https://github.com/Ter4ik/DS/tree/main/PROJECT-1_Анализ_резюме_из_HeadHunter/README.md#Оглавление))
+Представлены в [Ноутбук-шаблоне]((https://github.com/Ter4ik/DS/edit/Ter4ikDS/PROJECT-1_Анализ_резюме_из_HeadHunter/README.md#Оглавление))
 
-:arrow_up:[к оглавлению](https://github.com/Ter4ik/DS/tree/main/PROJECT-1_Анализ_резюме_из_HeadHunter/README.md#Оглавление)
+:arrow_up:[к оглавлению](https://github.com/Ter4ik/DS/edit/Ter4ikDS/PROJECT-1_Анализ_резюме_из_HeadHunter/README.md#Оглавление)
