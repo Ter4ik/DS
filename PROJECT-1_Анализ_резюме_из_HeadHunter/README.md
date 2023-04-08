@@ -2,7 +2,7 @@
 # Проект: Анализ вакансий на hh.ru
 
 ## Оглавление
-* [1. Описание проекта](https://github.com/Ter4ik/DS/tree/main/PROJECT-1_Анализ_резюме_из_HeadHunter/README.md#Описание-проекта)
+* [1. Описание проекта](https://github.com/Ter4ik/DS/edit/Ter4ikDS/PROJECT-1_Анализ_резюме_из_HeadHunter/README.md#Описание-проекта)
 * [2. Какой кейс решаем?](https://github.com/Ter4ik/DS/tree/main/PROJECT-1_Анализ_резюме_из_HeadHunter/README.md#Какой-кейс-решаем)
 * [3. Краткая информация о данных](https://github.com/Ter4ik/DS/tree/main/PROJECT-1_Анализ_резюме_из_HeadHunter/READMEmd#Краткая-информация-о-данных)
 * [4. Этапы работы над проектом](https://github.com/Ter4ik/DS/tree/main/PROJECT-1_Анализ_резюме_из_HeadHunter/README.md#Этапы-работы-над-проектом)
