@@ -111,7 +111,7 @@
 
 ## Результаты:
 
-Представлены в [Ноутбук-шаблоне]((https://github.com/Ter4ik/DS/blob/Ter4ikDS/PROJECT-1_%D0%90%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7_%D1%80%D0%B5%D0%B7%D1%8E%D0%BC%D0%B5_%D0%B8%D0%B7_HeadHunter/Project-1.%20%D0%9D%D0%BE%D1%83%D1%82%D0%B1%D1%83%D0%BA-%D1%88%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD.ipynb)
+Представлены в [Ноутбук-шаблоне PROJECT-1_Анализ_резюме_из_HeadHunter/Project-1. Ноутбук-шаблон.ipynb](https://github.com/Ter4ik/DS/blob/Ter4ikDS/PROJECT-1_%D0%90%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7_%D1%80%D0%B5%D0%B7%D1%8E%D0%BC%D0%B5_%D0%B8%D0%B7_HeadHunter/Project-1.%20%D0%9D%D0%BE%D1%83%D1%82%D0%B1%D1%83%D0%BA-%D1%88%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD.ipynb)
 
 :arrow_up:[к оглавлению](https://github.com/Ter4ik/DS/edit/Ter4ikDS/PROJECT-1_Анализ_резюме_из_HeadHunter/README.md#Оглавление)
 
