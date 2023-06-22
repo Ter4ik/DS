@@ -47,7 +47,7 @@
 
 ### Файлы решения ###
 
-[**`stat-tests-work.ipynb`**](stat-tests-work.ipynb)&nbsp;&mdash; Итоговый файл
+[**`stat-tests-hw.ipynb`**](stat-tests-hw.ipynb)&nbsp;&mdash; Итоговый файл
 **Jupyter Notebook**.
 
 [:arrow_up: Содержание](#содержание)
